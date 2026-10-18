@@ -1,0 +1,15 @@
+# Simulink build/cache files and editor backups
+slprj/
+*.slxc
+*.autosave
+*.original
+*.asv
+*.m~
+
+# Generated simulation results and local experimental data
+*.mat
+*.xlsx
+*.xls
+*.csv
+results/
+output/

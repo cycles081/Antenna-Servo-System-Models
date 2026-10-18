@@ -1,0 +1,8 @@
+# Keep model archives and CAD geometry byte-for-byte unchanged.
+*.slx -text
+*.STEP -text
+
+# Normalize source and documentation in Git.
+*.m text eol=lf
+*.md text eol=lf
+.gitignore text eol=lf
